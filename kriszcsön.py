@@ -1,6 +1,6 @@
 #Írj ki egy stringet txt fájlba!
 
-kiirando_szoveg="Erik, ne püföld a billentyűzetet!"
+kiirando_szoveg="Erik, ne püföld annyira a billentyűzetet!"
 
 celfajl=open("erik.txt","w")
 
